@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_KP"
+        app:showAsAction="always"
+        android:title="KP"></item>
+
+    <item
+        android:id="@+id/action_NZ"
+        app:showAsAction="never"
+        android:title="Christchurch"></item>
+    <item
+        android:id="@+id/action_MT"
+        app:showAsAction="never"
+        android:title="Milford"></item>
+    <item
+        android:id="@+id/action_RT"
+        app:showAsAction="never"
+        android:title="Routeburn"></item>
+</menu>
